@@ -362,7 +362,7 @@ int main() {
             cout << "No scholarship" << endl;
         break;
     }
-
+    //comment
     return 0;
 }
 */
